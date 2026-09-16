@@ -1,5 +1,19 @@
 
 pydantic
 dotenv
-langchain-groq
 langchain
+langchain-community
+langchain-groq
+langgraph
+faiss-cpu
+python-dotenv
+langchain-google-genai
+streamlit
+langchain_huggingface
+langchain-text-splitters
+sentence-transformers
+arxiv
+wikipedia
+semanticscholar
+langchain_tavily
+langchain_core
